@@ -8,6 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
    let li = document.createElement("li");
    li.innerHTML = task.value;
    tasks.appendChild(li);
-    
-  } 
+
+  }
 });
